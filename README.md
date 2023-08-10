@@ -1,0 +1,1 @@
+# sistem_pakar_diagnosa_landcruiserbj40_forwardchaining_dempstershafer
